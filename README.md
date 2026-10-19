@@ -15,7 +15,7 @@ Steps followed:
 - Verified the imported data using SELECT queries.
 - Analyzed the data using SQL queries.
 - Used the insights for dashboard development in Excel, Power BI, and Tableau.
-- 
+
 ### 1. Introduction to SQL in Hospitality Analytics
 
 SQL (Structured Query Language) is used to retrieve, organize, filter, and analyze data stored in databases.
