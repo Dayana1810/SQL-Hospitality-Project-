@@ -1,1 +1,1 @@
-# SQL-Hospitality-Project-
+# SQL Hospitality Project-
