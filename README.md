@@ -1,5 +1,5 @@
 # SQL Hospitality Project
-# Hospitality Analyst Project – SQL Queries Explanation
+## Hospitality Analyst Project – SQL Queries Explanation
 
 Since you have already written SQL queries for your **Hospitality Analyst Project**, you can explain the topics, their purpose, and how they help analyze hotel business performance during your project presentation or interview.
 
