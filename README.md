@@ -9,19 +9,20 @@ In my Hospitality Analyst project, I imported CSV files into the MySQL database 
 
 Steps followed:
 
-Created a database in MySQL.
-Created tables with appropriate column names and data types.
-Imported CSV files into MySQL tables.
-Verified the imported data using SELECT queries.
-Analyzed the data using SQL queries.
-Used the insights for dashboard development in Excel, Power BI, and Tableau.
-## 1. Introduction to SQL in Hospitality Analytics
+- Created a database in MySQL.
+- Created tables with appropriate column names and data types.
+- Imported CSV files into MySQL tables.
+- Verified the imported data using SELECT queries.
+- Analyzed the data using SQL queries.
+- Used the insights for dashboard development in Excel, Power BI, and Tableau.
+- 
+### 1. Introduction to SQL in Hospitality Analytics
 
 SQL (Structured Query Language) is used to retrieve, organize, filter, and analyze data stored in databases.
 
 In my Hospitality Analyst project, I used **MySQL** to analyze hotel bookings, revenue, occupancy, cancellations, customer behavior, and booking trends. SQL helped me extract meaningful insights from the data and support business decision-making.
 
-## 2. Important SQL Topics and Their Explanations
+### 2. Important SQL Topics and Their Explanations
 
 ### 1. SELECT Statement
 
